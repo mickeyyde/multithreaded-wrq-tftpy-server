@@ -5,10 +5,11 @@ Cas d'utilisation:
 Besoin de récupérer jusqu'à 100 configs d'équipements réseau en parallele (utiliser le protocole tftp est la méthode la plus simple et moins gourmande pour les équipements)
 
 TODO:
-[] répertoire de sauvegarde des fichiers
-[] logging
-[] commenter
-[] mise au propre
-[] readme.md
+- [ ] répertoire de sauvegarde des fichiers
+- [ ] logging
 
-[] implémenter RRQ 
+- [ ] mise au propre
+  - [ ] commenter le code  
+- [ ] readme.md
+
+- [ ] implémenter RRQ 

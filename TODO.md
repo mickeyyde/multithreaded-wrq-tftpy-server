@@ -1,6 +1,6 @@
 TODO:
-- [ ] répertoire de sauvegarde des fichiers
-- [ ] logging
+- [x] répertoire de sauvegarde des fichiers
+- [x] logging
 
 - [ ] mise au propre
   - [ ] commenter le code  
